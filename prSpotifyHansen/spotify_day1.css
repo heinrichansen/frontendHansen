@@ -1,0 +1,33 @@
+.header{
+    background-color: black;
+    display: flex;
+    padding-right: 5%;
+    padding-left: 5%;
+    height: 80px;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    width: 89%;
+}
+.menuUtama{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    color: white;
+    padding: 15px;
+}
+.logoSpotify{
+    color: white;
+    height: 50px; width: 10%;
+    display: flex;
+    padding: 15px;
+    
+}
+.bar{
+    width: 40%;
+}
+
+.wlcmSpotify{
+    height: 750px;
+    border: blueviolet 1px solid;
+}
